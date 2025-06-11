@@ -32,7 +32,7 @@ def get_random_headers():
 # Env vars
 api_id = int(os.environ.get("API_ID", 25017900))
 api_hash = os.environ.get("API_HASH", "3830600881a164826e60f2806b28e666")
-bot_token = os.environ.get("BOT_TOKEN", "")
+bot_token = os.environ.get("BOT_TOKEN", "8164465898:AAG5cATAUlbSaBxCyDj9LFweIX4kSFaNrWY")
 channel_id = os.environ.get("CHANNEL_ID", "-1002576185260")
 
 try:
